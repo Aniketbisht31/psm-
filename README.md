@@ -1,4 +1,5 @@
 # Welcome to your Expo app 👋
+not done yet habitable or habiritual supabase connection feed is completed next auth and personal habit general 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
